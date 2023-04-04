@@ -18,8 +18,8 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gplay97&show_icons=true&theme=dark&locale=en" alt="gplay97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gplay97&show_icons=true&theme=highcontrast&locale=en&count_private=true&hide=stars" alt="gplay97" /></p>
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gplay97&theme=dark" alt="gplay97" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gplay97&theme=highcontrast" alt="gplay97" /></p>
